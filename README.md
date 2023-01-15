@@ -4,7 +4,7 @@
 ![Tom's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tom-lord&count_private=true&show_icons=true&theme=algolia)
 
 <p>
-  <a href="https://www.linkedin.com/in/tomlord/">
+  <a href="https://www.linkedin.com/in/tom-lord-51396662/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/1954610/tom-lord">
