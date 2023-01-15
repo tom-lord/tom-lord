@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **tom-lord/tom-lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Tom's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tom-lord&count_private=true&show_icons=true&theme=radical)
+![Tom's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tom-lord&count_private=true&show_icons=true&theme=algolia)
